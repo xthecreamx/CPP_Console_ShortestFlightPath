@@ -1,0 +1,7 @@
+Austin Chicago Dallas Denver
+Austin Chicago 1000
+Austin Dallas 200
+Chicago Austin 1000
+Chicago Dallas 900
+Dallas Chicago 900
+Dallas Austin 200
